@@ -37,7 +37,7 @@ export default function Home() {
         {/* Hero Section */}
         <section id="hero" className="py-24 text-center">
           <h1 className="text-5xl md:text-6xl font-extrabold tracking-tight leading-tight mb-6">
-            Hey, I’m <span className="text-blue-400">Alex Schaffer</span>
+            Hey, I’m <span className="text-blue-400">Alex!</span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-400 max-w-3xl mx-auto mb-8">
             Full-Stack Software Engineer crafting seamless web and mobile applications.
@@ -125,13 +125,17 @@ export default function Home() {
           <h2 className="text-4xl font-bold tracking-tight mb-6">Get in Touch</h2>
           <p className="text-lg text-gray-400 mb-8">
             Reach out at{' '}
-            <a href="mailto:schaffer.engineering@gmail.com" className="text-blue-400 hover:underline">
-              schaffer.engineering@gmail.com
+            <a href="mailto:aschaffer8770@gmail.com" className="text-blue-400 hover:underline">
+              aschaffer8770@gmail.com
+            </a>{' '}
+            |{' '}
+            <a href="https://github.com/Aschaffer8770" className="text-blue-400 hover:underline">
+              GitHub
             </a>
           </p>
           <div className="space-x-4">
             <a
-              href="mailto:schaffer.engineering@gmail.com"
+              href="mailto:aschaffer8770@gmail.com"
               className="inline-block bg-transparent border border-blue-400 text-blue-400 hover:bg-blue-400 hover:text-white font-semibold py-2 px-6 rounded-full transition-all duration-300"
             >
               Contact Me
