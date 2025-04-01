@@ -125,8 +125,8 @@ export default function Home() {
           <h2 className="text-4xl font-bold tracking-tight mb-6">Get in Touch</h2>
           <p className="text-lg text-gray-400 mb-8">
             Reach out at{' '}
-            <a href="mailto:aschaffer8770@gmail.com" className="text-blue-400 hover:underline">
-              aschaffer8770@gmail.com
+            <a href="mailto:schaffer.engineering@gmail.com" className="text-blue-400 hover:underline">
+              schaffer.engineering@gmail.com
             </a>{' '}
             |{' '}
             <a href="https://github.com/Aschaffer8770" className="text-blue-400 hover:underline">
