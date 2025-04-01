@@ -11,7 +11,7 @@ export default function Home() {
       {/* Header */}
       <header className="sticky top-0 bg-gray-950/90 backdrop-blur-lg z-10 py-6">
         <nav className="max-w-6xl mx-auto px-6 flex justify-between items-center">
-          <div className="text-2xl font-bold tracking-tight">Alex Schaffer</div>
+          <div className="text-2xl font-bold tracking-tight">Schaffer.Engineering</div>
           <ul className="flex space-x-8 text-sm font-medium">
             <li>
               <a href="#about" className="text-gray-300 hover:text-blue-400 transition-colors duration-200">
