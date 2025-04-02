@@ -135,7 +135,7 @@ export default function Home() {
           </p>
           <div className="space-x-4">
             <a
-              href="mailto:aschaffer8770@gmail.com"
+              href="mailto:schaffer.engineering@gmail.com"
               className="inline-block bg-transparent border border-blue-400 text-blue-400 hover:bg-blue-400 hover:text-white font-semibold py-2 px-6 rounded-full transition-all duration-300"
             >
               Contact Me
