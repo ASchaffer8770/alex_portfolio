@@ -1,4 +1,5 @@
 import Head from 'next/head';
+import { Analytics } from "@vercel/analytics/react"
 
 export default function Home() {
   return (
@@ -48,6 +49,7 @@ export default function Home() {
           >
             View My Experience
           </a>
+          <Analytics />
         </section>
 
         {/* About Section */}
